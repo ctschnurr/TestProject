@@ -16,6 +16,6 @@ public class cubeRotater : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        cube.transform.Rotate(0, 1, 0);
+        cube.transform.Rotate(0, 5, 0);
     }
 }
